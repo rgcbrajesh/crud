@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rgcbrajesh/crud/static/css/main.71d389f8.css",
+    "main.js": "/rgcbrajesh/crud/static/js/main.4ce78ea6.js",
+    "static/js/787.11a60ee4.chunk.js": "/rgcbrajesh/crud/static/js/787.11a60ee4.chunk.js",
+    "static/media/business-min.gif": "/rgcbrajesh/crud/static/media/business-min.8a51e7473a41706b08f5.gif",
+    "static/media/Billdu_How-to-write-an-invoice-for-freelance-work-1.png": "/rgcbrajesh/crud/static/media/Billdu_How-to-write-an-invoice-for-freelance-work-1.6dcb1f13e0dd157199b5.png",
+    "index.html": "/rgcbrajesh/crud/index.html",
+    "main.71d389f8.css.map": "/rgcbrajesh/crud/static/css/main.71d389f8.css.map",
+    "main.4ce78ea6.js.map": "/rgcbrajesh/crud/static/js/main.4ce78ea6.js.map",
+    "787.11a60ee4.chunk.js.map": "/rgcbrajesh/crud/static/js/787.11a60ee4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d389f8.css",
+    "static/js/main.4ce78ea6.js"
+  ]
+}
